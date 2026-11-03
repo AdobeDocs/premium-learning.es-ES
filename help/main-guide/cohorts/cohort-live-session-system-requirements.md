@@ -20,7 +20,7 @@ ht-degree: 0%
 Las sesiones en directo se llevarán a cabo con Adobe Connect. Asegúrese de seguir estos puntos de comprobación para evitar problemas técnicos durante la sesión en directo:
 
 1. Ejecute esta [prueba de diagnóstico](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm) para asegurarse de que Adobe Connect funciona correctamente en el sistema.
-1. Revisa las [especificaciones técnicas](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) para Adobe Connect.
+1. Revisa las [especificaciones técnicas](https://helpx.adobe.com/es/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) para Adobe Connect.
 1. Puede unirse a Adobe Connect a través de un explorador o de la aplicación de escritorio.
 a) Si la aplicación de escritorio ya está instalada y tiene problemas, desinstale la aplicación de Adobe Connect y vuelva a instalarla con la última versión proporcionada [aquí](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
 

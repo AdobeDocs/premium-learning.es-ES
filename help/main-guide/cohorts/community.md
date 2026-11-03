@@ -17,6 +17,6 @@ ht-degree: 1%
 
 ## ¿Hay un canal o foro de asistencia dedicado para los miembros de una cohorte?
 
-Cada cohorte de Adobe Premium Learning ofrece un **foro de debate** en el que los miembros de la cohorte, así como el instructor y el facilitador, pueden conversar sobre lo que está aprendiendo, hacer preguntas y mucho más. El foro de debate de la cohorte es una excelente manera de interactuar con sus colegas fuera de las sesiones. El panel de discusión estará disponible **el primer día de tu cohorte**, en [Mi concentrador](https://experienceleague.adobe.com/en/premium/home).
+Cada cohorte de Adobe Premium Learning ofrece un **foro de debate** en el que los miembros de la cohorte, así como el instructor y el facilitador, pueden conversar sobre lo que está aprendiendo, hacer preguntas y mucho más. El foro de debate de la cohorte es una excelente manera de interactuar con sus colegas fuera de las sesiones. El panel de discusión estará disponible **el primer día de tu cohorte**, en [Mi concentrador](https://experienceleague.adobe.com/es/premium/home).
 
 **Pregunta no enumerada aquí? [Contáctenos](https://adobe.service-now.com/adls?category=27).**

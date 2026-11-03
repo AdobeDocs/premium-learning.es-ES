@@ -35,4 +35,4 @@ También puede seguir su progreso a través de la finalización del proyecto Cap
 
 Las últimas semanas incluyen un Desafío Capstone para aplicar su aprendizaje y algo de tiempo de preparación para la certificación para prepararlo para el examen de certificación de Adobe.
 
-Las insignias de finalización de cohorte estarán disponibles en [Mis logros](https://experienceleague.adobe.com/en/premium/my-achievements).
+Las insignias de finalización de cohorte estarán disponibles en [Mis logros](https://experienceleague.adobe.com/es/premium/my-achievements).

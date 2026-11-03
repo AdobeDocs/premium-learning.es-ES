@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Si le falta una invitación del calendario o no puede unirse desde el vínculo personalizado, siga estos pasos de copia de seguridad para iniciar la sala de reuniones:
 
-1. Ir a [**[!UICONTROL Mi aprendizaje &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Ir a [**[!UICONTROL Mi aprendizaje &#x200B;]**](https://experienceleague.adobe.com/es/premium/learnings).
 1. Vaya a la sección **[!UICONTROL Aprendizaje en curso]**.
 1. En **[!UICONTROL Instructor en vivo]**, busque su curso.
 1. En la descripción general, cambie a la pestaña **[!UICONTROL Detalles de la sesión]** y busque el día en que se encuentra.
