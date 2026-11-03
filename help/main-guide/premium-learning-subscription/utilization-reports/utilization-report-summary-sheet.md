@@ -21,7 +21,7 @@ La **[!UICONTROL hoja de resumen]** proporciona información general de alto niv
 
 ## Una referencia rápida para leer la ficha **[!UICONTROL Resumen]** de su **[!UICONTROL informe de uso del aprendizaje]**. Los números varían según la cuenta. Esto explica lo que significa cada sección.
 
-**Q: ¿Cuáles son los cuatro números que aparecen en la parte superior (**[!UICONTROL  Matriculaciones totales ]**,**[!UICONTROL  Alumnos activos ]**,**[!UICONTROL  Tasa de finalización ]**,**[!UICONTROL  Horas de aprendizaje ]**)?**
+**Q: ¿Cuáles son los cuatro números que aparecen en la parte superior (**&#x200B;[!UICONTROL &#x200B; Matriculaciones totales &#x200B;]&#x200B;**,**&#x200B;[!UICONTROL &#x200B; Alumnos activos &#x200B;]&#x200B;**,**&#x200B;[!UICONTROL &#x200B; Tasa de finalización &#x200B;]&#x200B;**,**&#x200B;[!UICONTROL &#x200B; Horas de aprendizaje &#x200B;]&#x200B;**)?**
 
 Estos son los KPI de titular: la forma más rápida de medir el tamaño y el impulso del programa.
 
@@ -29,15 +29,15 @@ Estos son los KPI de titular: la forma más rápida de medir el tamaño y el imp
 >
 >La tasa de finalización y las horas de aprendizaje solo cuentan los cursos de formación que se han realizado (impartidos o a ritmo personalizado), no las clases que siguen programándose.
 
-**Q: ¿Qué muestra la tabla**[!UICONTROL  Tendencias de inscripción por mes ]**?**
+**Q: ¿Qué muestra la tabla**&#x200B;[!UICONTROL &#x200B; Tendencias de inscripción por mes &#x200B;]&#x200B;**?**
 
 Su actividad de inscripción a lo largo del tiempo, mes a mes, con un cambio de %. Utilice esto para ver si la participación aumenta, se aplana o se ralentiza.
 
-**Q: ¿Cuál es la diferencia entre el**[!UICONTROL  desglose de estado ]**y la**[!UICONTROL  tasa de finalización ]**?**
+**Q: ¿Cuál es la diferencia entre el**&#x200B;[!UICONTROL &#x200B; desglose de estado &#x200B;]&#x200B;**y la**&#x200B;[!UICONTROL &#x200B; tasa de finalización &#x200B;]&#x200B;**?**
 
 El desglose de estado (Completado/En curso/No iniciado) cubre todas las inscripciones, incluidas las que aún no han comenzado. La tasa de finalización solo cuenta las clases que los alumnos han tenido la oportunidad de finalizar.
 
-**Q: ¿Qué me dice**[!UICONTROL  Entrega de clase — Programado vs Entregado ]**?**
+**Q: ¿Qué me dice**&#x200B;[!UICONTROL &#x200B; Entrega de clase — Programado vs Entregado &#x200B;]&#x200B;**?**
 
 Si las inscripciones ya se han ejecutado. Divide todo en Entregado, En curso, Programado y Con ritmo personalizado; esta es la base de lo que cuenta como *elegible* en la matemática de finalización.
 

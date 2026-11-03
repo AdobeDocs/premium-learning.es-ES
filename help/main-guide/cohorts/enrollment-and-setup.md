@@ -29,7 +29,7 @@ Para garantizar que nuestros correos electrónicos y las invitaciones al calenda
 
 Si le falta un correo electrónico, compruebe su carpeta de correo no deseado y las fichas secundarias de la bandeja de entrada (como la ficha **[!UICONTROL Otros]** de Outlook o vistas filtradas similares).
 
-**Aproximadamente 1 semana antes de que comience su cohorte:** Busque un correo electrónico de bienvenida que le permita saber que puede empezar a acceder a sus actividades de cohorte y a los requisitos previos al trabajo. Mientras tanto, puede leer acerca de los objetivos y la agenda de la cohorte en [**[!UICONTROL Mi concentrador ]**](https://experienceleague.adobe.com/en/premium/home).
+**Aproximadamente 1 semana antes de que comience su cohorte:** Busque un correo electrónico de bienvenida que le permita saber que puede empezar a acceder a sus actividades de cohorte y a los requisitos previos al trabajo. Mientras tanto, puede leer acerca de los objetivos y la agenda de la cohorte en [**[!UICONTROL Mi concentrador &#x200B;]**](https://experienceleague.adobe.com/en/premium/home).
 
 ## ¿Cómo puedo obtener acceso a un entorno para utilizarlo durante la cohorte?
 

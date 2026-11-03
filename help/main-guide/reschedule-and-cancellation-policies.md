@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Para cancelar la inscripción en una cohorte o curso:
 
-1. Encuentre su inscripción en la página [**[!UICONTROL Mi aprendizaje ]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Encuentre su inscripción en la página [**[!UICONTROL Mi aprendizaje &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
 2. Haga clic en **[!UICONTROL Dar de baja]**.
 
 Visite los [Términos y condiciones](/help/main-guide/terms-and-conditions.md) para obtener información completa sobre las políticas de reprogramación, cancelación y No presentarse.
@@ -28,8 +28,8 @@ Visite los [Términos y condiciones](/help/main-guide/terms-and-conditions.md) p
 
 Para volver a programar para una fecha diferente:
 
-1. Darse de baja de su cohorte o curso. Puede encontrar sus inscripciones en la página [**[!UICONTROL Mi aprendizaje ]**](https://experienceleague.adobe.com/en/premium/learnings).
-2. Regresa al [**[!UICONTROL Catálogo Premium ]**](https://experienceleague.adobe.com/en/premium/premium-search) para inscribirte en otra cohorte o fecha de curso.
+1. Darse de baja de su cohorte o curso. Puede encontrar sus inscripciones en la página [**[!UICONTROL Mi aprendizaje &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+2. Regresa al [**[!UICONTROL Catálogo Premium &#x200B;]**](https://experienceleague.adobe.com/en/premium/premium-search) para inscribirte en otra cohorte o fecha de curso.
 
 Visite los [Términos y condiciones](/help/main-guide/terms-and-conditions.md) para obtener información completa sobre las políticas de reprogramación, cancelación y No presentarse.
 
