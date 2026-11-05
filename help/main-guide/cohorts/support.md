@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '311'
 ht-degree: 0%
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## Me faltan las invitaciones de calendario para mis sesiones de cohorte en directo.
 
-Las invitaciones provienen de [plsnore@adobe.com](mailto:plsnore@adobe.com) (que se utiliza para notificaciones relacionadas con el aprendizaje e invitaciones al calendario). Compruebe su carpeta de correo no deseado y las fichas secundarias de la bandeja de entrada (como la ficha **[!UICONTROL Otros]** de Outlook o vistas filtradas similares).
+Las invitaciones provienen de [plsnore@adobe.com](mailto:plsnore@adobe.com) (una dirección sin respuesta utilizada para notificaciones relacionadas con el aprendizaje e invitaciones del calendario). Compruebe su carpeta de correo no deseado y las fichas secundarias de la bandeja de entrada (como la ficha **[!UICONTROL Otros]** de Outlook o vistas filtradas similares).
 
 Únase a la sala de reuniones al **usar el vínculo personalizado dentro de las invitaciones al calendario**.
 
 Si le falta una invitación del calendario, siga estos pasos de copia de seguridad para iniciar la sala de reuniones:
 
-1. Ir a [**[!UICONTROL Mi aprendizaje &#x200B;]**](https://experienceleague.adobe.com/es/premium/learnings).
+1. Ir a [**[!UICONTROL Mi aprendizaje ]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Vaya a la sección **[!UICONTROL Aprendizaje en curso]**
 1. Busque la cohorte.
 1. Vaya a la semana adecuada y expanda la sesión.
@@ -33,7 +33,7 @@ Si le falta una invitación del calendario, siga estos pasos de copia de segurid
 
 Si no puede unirse desde el vínculo personalizado dentro de la invitación del calendario, siga estos pasos de copia de seguridad para iniciar la sala de reuniones:
 
-1. Ir a [**[!UICONTROL Mi aprendizaje &#x200B;]**](https://experienceleague.adobe.com/es/premium/learnings).
+1. Ir a [**[!UICONTROL Mi aprendizaje ]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Vaya a la sección **[!UICONTROL Aprendizaje en curso]**.
 1. Busque la cohorte.
 1. Vaya a la semana adecuada y expanda la sesión.

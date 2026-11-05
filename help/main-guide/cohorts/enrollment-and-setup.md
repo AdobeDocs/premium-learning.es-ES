@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 ---
 
@@ -23,13 +23,13 @@ Recibirá un correo electrónico de confirmación de inscripción y una invitaci
 
 Para garantizar que nuestros correos electrónicos y las invitaciones al calendario se envíen a su bandeja de entrada, agregue las siguientes direcciones a sus contactos o a la lista de remitentes seguros:
 
-**[plsnore@adobe.com](mailto:plsnore@adobe.com)** (se usa para notificaciones relacionadas con el aprendizaje e invitaciones al calendario)
+**[plsnore@adobe.com](mailto:plsnore@adobe.com)** (una dirección sin respuesta utilizada para las notificaciones relacionadas con el aprendizaje y las invitaciones al calendario)
 
 **[environment@adobe.com](mailto:environment@adobe.com)** y **[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)** (se usan para notificaciones relacionadas con entornos y zonas protegidas)
 
 Si le falta un correo electrónico, compruebe su carpeta de correo no deseado y las fichas secundarias de la bandeja de entrada (como la ficha **[!UICONTROL Otros]** de Outlook o vistas filtradas similares).
 
-**Aproximadamente 1 semana antes de que comience su cohorte:** Busque un correo electrónico de bienvenida que le permita saber que puede empezar a acceder a sus actividades de cohorte y a los requisitos previos al trabajo. Mientras tanto, puede leer acerca de los objetivos y la agenda de la cohorte en [**[!UICONTROL Mi concentrador &#x200B;]**](https://experienceleague.adobe.com/es/premium/home).
+**Aproximadamente 1 semana antes de que comience su cohorte:** Busque un correo electrónico de bienvenida que le permita saber que puede empezar a acceder a sus actividades de cohorte y a los requisitos previos al trabajo. Mientras tanto, puede leer acerca de los objetivos y la agenda de la cohorte en [**[!UICONTROL Mi concentrador ]**](https://experienceleague.adobe.com/en/premium/home).
 
 ## ¿Cómo puedo obtener acceso a un entorno para utilizarlo durante la cohorte?
 
