@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 ¿Necesita ayuda para lanzar una sala de reuniones o contenido? ¿Tiene problemas con la experiencia en clase que se está llevando a cabo en este momento?
@@ -73,6 +73,6 @@ Si su entorno de zona protegida ha completado el aprovisionamiento pero tiene pr
 
 ## Consejos de envío de correo electrónico
 
-Se enviarán mensajes de correo electrónico de aprendizaje e invitaciones al calendario desde [plsnore@adobe.com](mailto:plsnore@adobe.com). Para asegurarse de que recibe actualizaciones importantes, agregue esta dirección de correo electrónico a sus contactos o a la lista de remitentes seguros. Si cree que se ha perdido un correo electrónico, compruebe su carpeta de correo no deseado, así como las fichas de la bandeja de entrada filtradas (como la ficha **[!UICONTROL Otros]** de Outlook).
+Se envían correos electrónicos de aprendizaje e invitaciones al calendario desde [plsnore@adobe.com](mailto:plsnore@adobe.com) (dirección sin respuesta). Para asegurarse de que recibe actualizaciones importantes, agregue esta dirección de correo electrónico a sus contactos o a la lista de remitentes seguros. Si cree que se ha perdido un correo electrónico, compruebe su carpeta de correo no deseado, así como las fichas de la bandeja de entrada filtradas (como la ficha **[!UICONTROL Otros]** de Outlook).
 
 ¿La pregunta no aparece aquí? [Póngase en contacto con nosotros](https://adobe.service-now.com/adls?category=6).
